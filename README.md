@@ -1,4 +1,4 @@
-Nguồn: https://github.com/yell0wsuit/MarioSequencer
+Nguồn: https://github.com/yell0wsuit/MarioSequencer\n
 Cách sử dụng:
 Chọn nhạc cụ: Bấm vào 1 trong 15 nhạc cụ ở phía trên.
 Tạo điểm vòng lặp: Bấm nút vàng ở cuối.
